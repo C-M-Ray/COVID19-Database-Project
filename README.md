@@ -9,7 +9,7 @@ BC2402 Designing & Developing Databases
 2. European Centre for Disease Prevention and Control (ECDC) | Country response measures to COVID-19: https://www.ecdc.europa.eu/en/publications-data/download-data-response-measures-covid-19  
 3. Google | Community Mobility Reports: https://www.google.com/covid19/mobility/index.html?hl=en
 # Instructions
-1. Download the files onto your local computer (including the datasets from the 'Data Sources')
+1. Download the files onto your local computer (including the datasets under 'Data Sources')
 2. Unzip 'Schema.zip' and extract it 
 3. Launch 'MySQL' and import the 'Schema' SQL text file to import the schema into MySQL.  
 5. Execute the queries from the 'Queries' SQL text file.  
